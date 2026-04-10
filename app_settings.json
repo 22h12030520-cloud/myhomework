@@ -1,0 +1,8 @@
+{
+    "model_path": "D:/yaohejiance/runs/weights/best.pt",
+    "device": "CPU",
+    "conf_thres": 0.25,
+    "iou_thres": 0.45,
+    "show_labels": true,
+    "show_original": false
+}
